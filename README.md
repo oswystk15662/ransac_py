@@ -1,0 +1,1 @@
+plz run sick_scan_xd before runnning this pkg
